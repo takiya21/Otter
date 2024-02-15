@@ -1,0 +1,304 @@
+{
+    "data": {
+        "egg+egg+above00649": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and there are burns, unevenness, and bubbles in the whites, it seems that it has been cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00649"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00989": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange, and there are unevenness, burns, and bubbles in the whites, it seems like it has been cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00989"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00995": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange, and there is unevenness, charring, and bubbles in the white, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00995"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01005": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange, and there is some unevenness, slight burns, and bubbles in the white, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01005"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00195": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and there are burns and bubbles in the whites, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00195"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg_ng+above00486": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "No, Because there is charring, unevenness, and bubbles in the white, which suggests it's cooked, but the yolk is broken.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg_ng+above00486"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00520": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is some white in part of the yolk, and there are burns, unevenness, and bubbles in the whites, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00520"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg_ng+above00532": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "No, Because there are few unevenness and charring and bubbles in the white, it looks like it's cooked, but the yolk is broken.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg_ng+above00532"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01120": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is a membrane on the yolk, and the yolk is yellow with burns and unevenness in the whites, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01120"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00118": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because part of the yolk is covered with a membrane, and the yolk is yellow with burns, bubbles, and unevenness in the whites, it seems that it has been cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00118"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg_ng+above00738": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "No, Because the yolk is orange and there is unevenness in the whites, it seems that it has been cooked, but there is black charring.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg_ng+above00738"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01194": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is a membrane over the yolk, and there are burns, unevenness, and a few bubbles in the whites, it appears that it is cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01194"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01203": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is a membrane on the yolk, and part of the whites is burnt black, with unevenness and burns in the whites, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01203"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00185": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange with unevenness and burns in the whites, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00185"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00341": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is yellow, the white is thin, and there are burns, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00341"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00588": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange with burns and unevenness in the whites, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00588"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00781": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there are few burns on the whites, but the yolk is orange with unevenness and bubbles, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00781"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00792": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and there is unevenness and burns in the white, it seems cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00792"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg_ng+above00799": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "No, Because there is unevenness and bubbles in the whites, it seems like the whites are cooked, but the whites around the yolk are watery, which makes it seem like the yolk is not cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg_ng+above00799"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg_ng+above00946": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "No, Because the yolk is orange and there are unevenness and bubbles in the white, but no burns, so it appears uncooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg_ng+above00946"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01105": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and there is charring and bubbles in the white, it appears to be cooked through.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01105"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01199": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is a membrane on the yolk, and despite the whites having little unevenness, the yolk is yellow and there are burns on the whites, it appears that it has been cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01199"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg_ng+above00208": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "No, Because there are bubbles and charring in the white, which makes it seem cooked, but the yolk is crushed.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg_ng+above00208"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00434": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is a membrane on part of the yolk, and there are burns, bubbles, and unevenness in the whites, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00434"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00671": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and the white has unevenness and burns, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00671"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01084": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and there are unevenness and burns in the white, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01084"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above01217": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the membrane on the yolk is broken, and the yolk is yellow with burns and unevenness in the whites, it seems that it has been cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above01217"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00979": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the color of the yolk is orange and there is unevenness in the egg white, it appears to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00979"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00154": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because the yolk is orange and there are burns, unevenness, and bubbles in the whites, it seems that it has been cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00154"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        },
+        "egg+egg+above00305": {
+            "instruction": "Is this image the preferred fried egg? Please answer first with yes or no and then give the reason for your decision.",
+            "answer": "Yes, Because there is a film on the yolk but there are burns on the edge of the egg white, it seems to be cooked.",
+            "flag": "",
+            "image_ids": [
+                "egg+egg+above00305"
+            ],
+            "rel_ok_ins_ids": [],
+            "rel_ng_ins_ids": []
+        }
+    }
+}
